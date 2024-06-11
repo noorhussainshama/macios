@@ -47,7 +47,7 @@ h1{
     /* border-bottom: 2px solid black; */
 }
 .navbar-left{
-    color: white;
+    color: black;
     gap: 1rem;
 }
 /* .navbar-left img{
@@ -79,7 +79,7 @@ h1{
     width: 100px;
 }
 .landing-section-left h1 span{
-    color: white;
+    color: black;
 }
 .landing-section-left .btn-a{
     text-align: center;
