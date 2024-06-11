@@ -15,7 +15,7 @@ body{
 }
 a{
     text-decoration: none;
-    color: white;
+    color: black;
 }
 p{
     font-size: 12px;
@@ -25,13 +25,13 @@ h1{
 }
 .btn-a{
     padding: 0.6rem 1.2rem;
-    background-color: white;
+    background-color: black;
     color: #6166F8;
     border-radius: 20px;
 }
 .btn-a:hover{
     background-color: #F7B050;
-    color: white;
+    color: black;
 }
 
 #navbar{
