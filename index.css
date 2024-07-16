@@ -11,7 +11,7 @@ body{
     height: 100%;
     overflow-x: hidden;
     background-color: #f9f9f9;
-    background-image: linear-gradient(315deg, #f9f9f9 0%, #F7B050 74%);
+    background-image: linear-gradient(315deg, #f9f9f9 0%, #D0DAE0 74%);
 }
 a{
     text-decoration: none;
