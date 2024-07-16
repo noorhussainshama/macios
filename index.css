@@ -118,13 +118,13 @@ h1{
     color: white;
 }
 .service-card h3{
-    color: #C7CACB;
+    color: black;
 }
 
 .footer{
     background-color: white;
     text-align: center;
-    color: #C7CACB;
+    color: black;
     padding: 1rem 1rem;
 }
 
